@@ -5,7 +5,6 @@
 #include <cstdlib>
 #include <ctime>
 #include <set>
-// Inspired by this, https://medium.com/@msgold/using-python-to-create-and-solve-mazes-672285723c96
 struct Cell {
     int x, y;
     Cell(int x = 0, int y = 0) : x(x), y(y) {}
