@@ -43,5 +43,6 @@ The application will display the maze in the terminal, with paths marked and 'S'
 Contributions are welcome! For significant changes, please open an issue first to discuss what you would like to change.
 
 ## License
-This project is open-sourced under the MIT License.
+This project is open-sourced under the [MIT License](LICENSE).
+
 
