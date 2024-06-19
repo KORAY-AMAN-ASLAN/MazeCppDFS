@@ -32,15 +32,7 @@ cd MazeCppDFS
 - Run the compiled application:
 ./MazeSolver
 
-## Input
-When prompted, enter the dimension of the maze, for example:
-Enter the dimension of the maze: 11
 
-## Output
-The application will display the maze in the terminal, with paths marked and 'S' and 'E' indicating start and end points respectively.
-
-## Contributing
-Contributions are welcome! For significant changes, please open an issue first to discuss what you would like to change.
 
 ## License
 This project is open-sourced under the [MIT License](LICENSE).
